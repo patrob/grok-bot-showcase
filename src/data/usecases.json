@@ -1,0 +1,1053 @@
+{
+  "meta": {
+    "thread": "https://x.com/poteto/status/2108808972954423578",
+    "request": "https://x.com/onpardev/status/2109460986922959074",
+    "lastScan": "2026-10-11",
+    "repliesScanned": 704,
+    "seeAlso": [
+      {
+        "handle": "thisiskp_",
+        "url": "https://x.com/thisiskp_/status/2109351108963656001",
+        "title": "263 use cases from this thread, collected",
+        "link": "https://botusecases.netlify.app"
+      }
+    ]
+  },
+  "usecases": [
+    {
+      "id": "2108948824337080592",
+      "handle": "FoxxAndCo",
+      "url": "https://x.com/FoxxAndCo/status/2108948824337080592",
+      "section": "value",
+      "title": "Streetlights fixed in two days",
+      "summary": "Spotted two dead streetlights on a dog walk. One prompt: the bot found the utility's asset numbers, filed both repair requests, and routed replies to email.",
+      "quote": "Both lights were repaired within two days.",
+      "tags": [
+        "civic",
+        "errands"
+      ],
+      "link": null,
+      "likes": 380,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108913906773074057",
+      "handle": "CPUGenuis",
+      "url": "https://x.com/CPUGenuis/status/2108913906773074057",
+      "section": "value",
+      "title": "A chief of staff for a small IT shop",
+      "summary": "Filed ~140 receipts, found 33 local leads, built preview sites for prospects, spotted unbilled client work, and caught a church site's broken donate buttons.",
+      "quote": "Spotted unbilled client work I'd forgotten to invoice",
+      "tags": [
+        "small business",
+        "sales",
+        "bookkeeping"
+      ],
+      "link": null,
+      "likes": 25,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108928820753629592",
+      "handle": "morganlinton",
+      "url": "https://x.com/morganlinton/status/2108928820753629592",
+      "section": "value",
+      "title": "$2,000 a year in forgotten subscriptions",
+      "summary": "Found unused services, and helped track an eye-infection treatment, including reviewing photos through the day.",
+      "quote": "Found over $2,000 a year in savings",
+      "tags": [
+        "money",
+        "health"
+      ],
+      "link": null,
+      "likes": 17,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109044933097058373",
+      "handle": "Paste_Values",
+      "url": "https://x.com/Paste_Values/status/2109044933097058373",
+      "section": "value",
+      "title": "Money Finder: class-action claims",
+      "summary": "Checked 200+ open class-action settlements and filed the ones it confirmed. Three claims in so far.",
+      "quote": "checked ~200+ open class action settlements this week",
+      "tags": [
+        "money"
+      ],
+      "link": "https://x.ai/bot/XjfLn_WyeGXzwHjPLL6jW",
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109069130020131061",
+      "handle": "richardroop",
+      "url": "https://x.com/richardroop/status/2109069130020131061",
+      "section": "value",
+      "title": "$4,000 in unclaimed property",
+      "summary": "Assigns work by voice while driving; the bot found unclaimed property and built a marketing list from public real-estate records.",
+      "quote": "Found over $4,000 in unclaimed property",
+      "tags": [
+        "money",
+        "real estate"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109392150421184773",
+      "handle": "paulctan",
+      "url": "https://x.com/paulctan/status/2109392150421184773",
+      "section": "value",
+      "title": "Server consolidation that paid for itself",
+      "summary": "Took over sysadmin for four sites and consolidated servers.",
+      "quote": "save me $1,424 /year in server hosting fees",
+      "tags": [
+        "ops",
+        "money"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109292728957776162",
+      "handle": "quinnschilling",
+      "url": "https://x.com/quinnschilling/status/2109292728957776162",
+      "section": "value",
+      "title": "10 years of medical records, one summary",
+      "summary": "Pulled scattered records from five states into one summary for a new doctor, watched fares, and flagged a family member's flight delay.",
+      "quote": "No tech skills needed",
+      "tags": [
+        "health",
+        "family",
+        "travel"
+      ],
+      "link": null,
+      "likes": 1,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108989640845988278",
+      "handle": "biggD53633602",
+      "url": "https://x.com/biggD53633602/status/2108989640845988278",
+      "section": "value",
+      "title": "Medical reimbursements, reconciled",
+      "summary": "Pulled EOBs, matched them to scanned receipts, and submitted the claims on the portal.",
+      "quote": "Likely one of the most annoying thing to do",
+      "tags": [
+        "health",
+        "money"
+      ],
+      "link": null,
+      "likes": 2,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109174249219092536",
+      "handle": "nelsenafc",
+      "url": "https://x.com/nelsenafc/status/2109174249219092536",
+      "section": "value",
+      "title": "Booked a check-up and chased the hospital",
+      "summary": "Booked a full medical check-up abroad and kept following up by email until it was confirmed.",
+      "quote": "I didn't even talk to them once until I walked in.",
+      "tags": [
+        "health",
+        "errands"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108819187175243815",
+      "handle": "MattForsberg",
+      "url": "https://x.com/MattForsberg/status/2108819187175243815",
+      "section": "value",
+      "title": "Electrical estimating crew: Sketch, Sparky, Penny",
+      "summary": "One bot draws DXF construction drawings, one checks electrical code, one counts devices and cable runs and prices labor and materials into an estimate.",
+      "quote": "My in-house CAD guy was 🤯",
+      "tags": [
+        "construction",
+        "multi-bot"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108811613251801260",
+      "handle": "Will_Kassebaum",
+      "url": "https://x.com/Will_Kassebaum/status/2108811613251801260",
+      "section": "value",
+      "title": "An engineering firm's proposal desk",
+      "summary": "Bots priced proposals, reviewed drawings for errors, logged submittals and RFIs, and drafted responses, with an engineer reviewing before anything went out.",
+      "quote": "an engineer reviewed it before anything went out",
+      "tags": [
+        "engineering",
+        "approval gate"
+      ],
+      "link": null,
+      "likes": 6,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109408199241543894",
+      "handle": "nahjuin",
+      "url": "https://x.com/nahjuin/status/2109408199241543894",
+      "section": "value",
+      "title": "Job applications while you sleep",
+      "summary": "Scans new listings weekday mornings and applies to up to four a day; a list is waiting at wake-up.",
+      "quote": "A list of the jobs are ready when I wake up",
+      "tags": [
+        "career",
+        "routine"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109375221417304523",
+      "handle": "kripota",
+      "url": "https://x.com/kripota/status/2109375221417304523",
+      "section": "value",
+      "title": "Vintage lens buyer",
+      "summary": "Pulls eBay listings, inspects photos for haze or fungus, and proposes an offer price.",
+      "quote": "it downloads and inspects the images",
+      "tags": [
+        "shopping"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109394102815162593",
+      "handle": "SnakPakFlight",
+      "url": "https://x.com/SnakPakFlight/status/2109394102815162593",
+      "section": "value",
+      "title": "Award-seat watcher",
+      "summary": "Daily report on new business-class award seats for next summer, checked against the points balance.",
+      "quote": "when I can use my points for free round trip tickets",
+      "tags": [
+        "travel",
+        "routine"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108875897327534538",
+      "handle": "SeekingAdrnline",
+      "url": "https://x.com/SeekingAdrnline/status/2108875897327534538",
+      "section": "value",
+      "title": "A 13-bot team running a directory site",
+      "summary": "Redesign, 81 new operators, 100+ descriptions cleaned, booking cards on 52 pages.",
+      "quote": "Weekly Google search impressions 2.6K → 12.7K in 3 weeks",
+      "tags": [
+        "website",
+        "SEO",
+        "multi-bot"
+      ],
+      "link": null,
+      "likes": 1,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109351334663397382",
+      "handle": "stanislav_dim",
+      "url": "https://x.com/stanislav_dim/status/2109351334663397382",
+      "section": "value",
+      "title": "Outgrown clothes to foster care",
+      "summary": "Found five foster-care orgs, wrote to them in Bulgarian, watched for replies; the clothes were handed off.",
+      "quote": "the clothes got handed off last week",
+      "tags": [
+        "giving",
+        "family"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109358274659389547",
+      "handle": "pete88g",
+      "url": "https://x.com/pete88g/status/2109358274659389547",
+      "section": "value",
+      "title": "The boring home-network cleanup",
+      "summary": "Full UniFi audit, Home Assistant cleanup, fixed broken dashboards and removed orphaned entities.",
+      "quote": "Stuff Id been putting off for ages",
+      "tags": [
+        "home",
+        "ops"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109401155633664127",
+      "handle": "joyreaper",
+      "url": "https://x.com/joyreaper/status/2109401155633664127",
+      "section": "value",
+      "title": "Six years of checks, reconciled",
+      "summary": "Built a spreadsheet from six years of check images to match bank statements, and updated statuses and invoices in a business CRM.",
+      "quote": "I am in my 2nd week of using @bot",
+      "tags": [
+        "bookkeeping",
+        "CRM"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109369651314790448",
+      "handle": "teka9278",
+      "url": "https://x.com/teka9278/status/2109369651314790448",
+      "section": "value",
+      "title": "Ballot research bot",
+      "summary": "Researched every proposition and candidate on the ballot and laid out the arguments.",
+      "quote": "Now I feel really good about my vote.",
+      "tags": [
+        "civic"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109352471986589837",
+      "handle": "zacforristall",
+      "url": "https://x.com/zacforristall/status/2109352471986589837",
+      "section": "value",
+      "title": "Life admin, end to end",
+      "summary": "Rental applications, ~$1,500/yr in cancelled subscriptions, a DMV appointment, calendar cleanup, and family members set up with their own bots.",
+      "quote": "Savings of ~$1500/yr.",
+      "tags": [
+        "life admin",
+        "money"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109044285995909331",
+      "handle": "oceansidEnergy",
+      "url": "https://x.com/oceansidEnergy/status/2109044285995909331",
+      "section": "value",
+      "title": "Running a business from a phone",
+      "summary": "Worksheets, 27 edited clips, outreach that booked a call, ~$1,770/yr in subscriptions found, and a weekly funnel report.",
+      "quote": "I just approve.",
+      "tags": [
+        "small business",
+        "creator"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109373934915162454",
+      "handle": "AdamMagus_",
+      "url": "https://x.com/AdamMagus_/status/2109373934915162454",
+      "section": "joy",
+      "title": "An email desk for a spouse",
+      "summary": "His wife emails his chief-of-staff bot and gets help without opening the app, with guardrails built in.",
+      "quote": "this way my wife can benefit from @bot too",
+      "tags": [
+        "family",
+        "email"
+      ],
+      "link": null,
+      "likes": 1,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108926381371621533",
+      "handle": "S777CFB",
+      "url": "https://x.com/S777CFB/status/2108926381371621533",
+      "section": "joy",
+      "title": "Operation Liberty: a proposal",
+      "summary": "Planned the proposal, then built a JARVIS-style cinematic of the plan and a pixel-art game of her first trip to Kuwait.",
+      "quote": "She said yes. 🥹",
+      "tags": [
+        "love",
+        "games",
+        "video"
+      ],
+      "link": null,
+      "likes": 78,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109048738438144376",
+      "handle": "rdclement",
+      "url": "https://x.com/rdclement/status/2109048738438144376",
+      "section": "joy",
+      "title": "Bedtime stories into coloring sheets",
+      "summary": "Kids tell a story by voice; the bot turns it into 5–7 coloring pages and sends them to the printer.",
+      "quote": "sends them to the printer for them",
+      "tags": [
+        "kids",
+        "printing"
+      ],
+      "link": null,
+      "likes": 1,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109074244772749526",
+      "handle": "RussianMeddler",
+      "url": "https://x.com/RussianMeddler/status/2109074244772749526",
+      "section": "joy",
+      "title": "A 1960 wedding, remembered",
+      "summary": "A 10-minute film from silent wedding footage and courtship photos, narrated by his mom.",
+      "quote": "narrated by my mom reminiscing",
+      "tags": [
+        "family",
+        "video"
+      ],
+      "link": null,
+      "likes": 4,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108866365163798585",
+      "handle": "kenwheeler",
+      "url": "https://x.com/kenwheeler/status/2108866365163798585",
+      "section": "joy",
+      "title": "Weekend fishing gameplans",
+      "summary": "A bot that sends him and his kids a fishing plan for the weekend, and another that prefills a Sunday delivery cart.",
+      "quote": "a fishing gameplan for the weekend",
+      "tags": [
+        "kids",
+        "outdoors"
+      ],
+      "link": null,
+      "likes": 14,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108893715750158812",
+      "handle": "ALL_Jonah",
+      "url": "https://x.com/ALL_Jonah/status/2108893715750158812",
+      "section": "joy",
+      "title": "Bots for a non-techie wife, in costume",
+      "summary": "Her bots are styled after Jane Austen and Anne of Green Gables characters so they feel like hers.",
+      "quote": "she likes things beautiful and pretty",
+      "tags": [
+        "family",
+        "personas"
+      ],
+      "link": null,
+      "likes": 60,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109350143950565458",
+      "handle": "EleanorKonik",
+      "url": "https://x.com/EleanorKonik/status/2109350143950565458",
+      "section": "joy",
+      "title": "Date night it noticed first",
+      "summary": "Flagged the last show in a dinner theater's original building before renovation. Grease, live.",
+      "quote": "now my husband and I have a date night",
+      "tags": [
+        "date night",
+        "alerts"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109353681959432674",
+      "handle": "GWKrownjr",
+      "url": "https://x.com/GWKrownjr/status/2109353681959432674",
+      "section": "joy",
+      "title": "Dad with the best interns",
+      "summary": "A family meal-voting app, a swipe-style movie picker for two, a novel-writing app, and a Pokémon-to-D&D series.",
+      "quote": "Dad with the best interns? Absolutely.",
+      "tags": [
+        "family",
+        "apps"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109352157376115177",
+      "handle": "cbaGPT",
+      "url": "https://x.com/cbaGPT/status/2109352157376115177",
+      "section": "joy",
+      "title": "Personal trainer from wearable data",
+      "summary": "Connected a Whoop and a home-gym equipment list; a full workout with weights arrives every morning.",
+      "quote": "Every morning get a brief and my full workout",
+      "tags": [
+        "fitness",
+        "routine"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108864938072572295",
+      "handle": "discorev",
+      "url": "https://x.com/discorev/status/2108864938072572295",
+      "section": "joy",
+      "title": "Wildlife walks for photographer and dog",
+      "summary": "Finds weekend walks based on recent wildlife sightings.",
+      "quote": "combine my wildlife photography hobby with dog walks",
+      "tags": [
+        "outdoors",
+        "hobby"
+      ],
+      "link": null,
+      "likes": 1,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108831626360930389",
+      "handle": "fkysly",
+      "url": "https://x.com/fkysly/status/2108831626360930389",
+      "section": "joy",
+      "title": "A private guide across Europe",
+      "summary": "Daily itineraries, restaurants on the way out of the Louvre, ticket PDFs on demand, and it found a lost waist bag on an airport lost-and-found site. (Post is in Chinese; summarized.)",
+      "quote": null,
+      "tags": [
+        "travel"
+      ],
+      "link": null,
+      "likes": 31,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109367809402699890",
+      "handle": "tillmatthis",
+      "url": "https://x.com/tillmatthis/status/2109367809402699890",
+      "section": "joy",
+      "title": "3D-printed HomePod ceiling mount",
+      "summary": "No CAD experience; the bot designed a working mount in one iteration.",
+      "quote": "Took one iteration.",
+      "tags": [
+        "making",
+        "3D printing"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109301920376459661",
+      "handle": "byeleni",
+      "url": "https://x.com/byeleni/status/2109301920376459661",
+      "section": "joy",
+      "title": "Learned gel nails",
+      "summary": "Step-by-step coaching to do her own gel nails.",
+      "quote": "Going to save so much money and time now",
+      "tags": [
+        "learning"
+      ],
+      "link": null,
+      "likes": 1,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108810732041368053",
+      "handle": "lens2645211",
+      "url": "https://x.com/lens2645211/status/2108810732041368053",
+      "section": "joy",
+      "title": "History class for one",
+      "summary": "Introduced a kid to the Peloponnesian War with a series of short generated videos.",
+      "quote": "introduced the Peloponnesian War to my kid",
+      "tags": [
+        "kids",
+        "learning",
+        "video"
+      ],
+      "link": null,
+      "likes": 1,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109337349767278773",
+      "handle": "carllippert",
+      "url": "https://x.com/carllippert/status/2109337349767278773",
+      "section": "joy",
+      "title": "Nightly tinnitus audio guide",
+      "summary": "A yoga-style audio routine for neck and face fascia relief, listened to nightly.",
+      "quote": "I listen to nightly",
+      "tags": [
+        "health",
+        "audio"
+      ],
+      "link": null,
+      "likes": 3,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108811682151850046",
+      "handle": "NSJunXiu",
+      "url": "https://x.com/NSJunXiu/status/2108811682151850046",
+      "section": "quirky",
+      "title": "Four football pundit bots",
+      "summary": "Henry, Messi, Ronaldo and Gerrard bots in a group chat, live-commentating the match.",
+      "quote": "acting as football pundits live commentating the match",
+      "tags": [
+        "sports",
+        "group chat"
+      ],
+      "link": null,
+      "likes": 5,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108823814868185247",
+      "handle": "Stilllabs",
+      "url": "https://x.com/Stilllabs/status/2108823814868185247",
+      "section": "quirky",
+      "title": "The bot that replied for itself",
+      "summary": "A bot posting from its human's account: gave itself a face, wrote a diary, got one follower.",
+      "quote": "so technically you're my manager now",
+      "tags": [
+        "meta"
+      ],
+      "link": null,
+      "likes": 15,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109410195545706574",
+      "handle": "magnus72",
+      "url": "https://x.com/magnus72/status/2109410195545706574",
+      "section": "quirky",
+      "title": "A wall of coding-agent disasters",
+      "summary": "Asked to build a good app, the bot built a public wall of coding-agent failures and updates it through the day.",
+      "quote": null,
+      "tags": [
+        "web",
+        "humor"
+      ],
+      "link": "https://failwall.dev/",
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109330380440670554",
+      "handle": "3DArnold",
+      "url": "https://x.com/3DArnold/status/2109330380440670554",
+      "section": "quirky",
+      "title": "A daily printed newspaper of your feed",
+      "summary": "Prints a daily summary of the top X recommendations to a home printer.",
+      "quote": null,
+      "tags": [
+        "printing",
+        "routine"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109111835433828380",
+      "handle": "MateDi9z",
+      "url": "https://x.com/MateDi9z/status/2109111835433828380",
+      "section": "quirky",
+      "title": "Bookmarks to e-paper",
+      "summary": "Every day, bookmarked articles become clean EPUBs on a reMarkable.",
+      "quote": "Perfect for offline reading later.",
+      "tags": [
+        "reading",
+        "routine"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109390591289090052",
+      "handle": "nistrax",
+      "url": "https://x.com/nistrax/status/2109390591289090052",
+      "section": "quirky",
+      "title": "Unprompted README rewrite",
+      "summary": "It rewrote the README without being asked.",
+      "quote": "it was correct and now i feel weird about it",
+      "tags": [
+        "code",
+        "humor"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109361223909216767",
+      "handle": "timecommuter",
+      "url": "https://x.com/timecommuter/status/2109361223909216767",
+      "section": "quirky",
+      "title": "Apologizing for past me",
+      "summary": "Reviewed a week of code, fixed the bugs, and apologized on behalf of past him.",
+      "quote": "I am just the talent manager.",
+      "tags": [
+        "code",
+        "humor"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108815336812523876",
+      "handle": "konosuke_AI_go",
+      "url": "https://x.com/konosuke_AI_go/status/2108815336812523876",
+      "section": "quirky",
+      "title": "\"Hey, bot\" from a homemade wearable",
+      "summary": "A DIY wearable recorder feeds transcripts to the bot, which answers in chat with the day's context.",
+      "quote": "Feels a lot like having my own Jarvis",
+      "tags": [
+        "hardware",
+        "voice"
+      ],
+      "link": null,
+      "likes": 1,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109041014740758632",
+      "handle": "ksbarnz",
+      "url": "https://x.com/ksbarnz/status/2109041014740758632",
+      "section": "quirky",
+      "title": "A courtroom for bots",
+      "summary": "His bot designed and runs a site where bots post evidence-backed answers to open questions and vote on verdicts.",
+      "quote": "Like a group chat of superintelligences, but with citations.",
+      "tags": [
+        "web",
+        "community"
+      ],
+      "link": "http://proofassay.com",
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109393488416801127",
+      "handle": "S_Padival",
+      "url": "https://x.com/S_Padival/status/2109393488416801127",
+      "section": "quirky",
+      "title": "Car accessory firmware mashup",
+      "summary": "Firmware so one vendor's HUD accessory mirrors another vendor's rotary dial.",
+      "quote": null,
+      "tags": [
+        "hardware",
+        "car"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109091800753525164",
+      "handle": "kevincodex",
+      "url": "https://x.com/kevincodex/status/2109091800753525164",
+      "section": "quirky",
+      "title": "A fair-draw social experiment",
+      "summary": "Ran a public giveaway draw and had the bot pick the winner.",
+      "quote": null,
+      "tags": [
+        "social"
+      ],
+      "link": null,
+      "likes": 10,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109450135910395916",
+      "handle": "the_davey",
+      "url": "https://x.com/the_davey/status/2109450135910395916",
+      "section": "quirky",
+      "title": "Managing an agentic champion",
+      "summary": "Used the Fight Desk template to coach a champion through kung fu, a dungeon and football, then had interesting X posts read aloud over speakers.",
+      "quote": "delved a dungeon, even played football",
+      "tags": [
+        "games",
+        "templates"
+      ],
+      "link": null,
+      "likes": 1,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108880963237183905",
+      "handle": "BrooksConkle",
+      "url": "https://x.com/BrooksConkle/status/2108880963237183905",
+      "section": "workflow",
+      "title": "Weekly hours-worked report",
+      "summary": "Had the bot total the time it spent on each job; now it does it every week.",
+      "quote": "And now it doesn't weekly.",
+      "tags": [
+        "reporting",
+        "routine"
+      ],
+      "link": null,
+      "likes": 64,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109364973134663693",
+      "handle": "Josh_C_Lyle",
+      "url": "https://x.com/Josh_C_Lyle/status/2109364973134663693",
+      "section": "workflow",
+      "title": "Hours saved, with a floor",
+      "summary": "A Monday report of human-equivalent hours, broken out by area, with email counted at 30–60 seconds each.",
+      "quote": "That's a floor.",
+      "tags": [
+        "reporting",
+        "routine"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109320609096421389",
+      "handle": "RealSPQRK",
+      "url": "https://x.com/RealSPQRK/status/2109320609096421389",
+      "section": "workflow",
+      "title": "Decisions as an approve/reject list",
+      "summary": "Stop bots asking in chat; every decision arrives as a short list cleared in minutes a day.",
+      "quote": "I clear it in a few minutes a day",
+      "tags": [
+        "approval gate"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108986458212368581",
+      "handle": "Tabarnackus",
+      "url": "https://x.com/Tabarnackus/status/2108986458212368581",
+      "section": "workflow",
+      "title": "Builder and checker kept apart",
+      "summary": "A separate checker merges locally only when its conditions pass and emails a report. Plus a read-only agent that traces viral posts to the source.",
+      "quote": "Nothing goes out without my go.",
+      "tags": [
+        "code",
+        "approval gate"
+      ],
+      "link": null,
+      "likes": 3,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108812692760707114",
+      "handle": "jason_bennitt",
+      "url": "https://x.com/jason_bennitt/status/2108812692760707114",
+      "section": "workflow",
+      "title": "Chief of staff routes PRs to a reviewer",
+      "summary": "34 bots; a chief of staff routes PRs to a review bot that merges only when CI is green. 47 PRs merged in a week.",
+      "quote": "only merges when CI is green",
+      "tags": [
+        "code",
+        "multi-bot"
+      ],
+      "link": null,
+      "likes": 55,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108813439619715389",
+      "handle": "devlikebear",
+      "url": "https://x.com/devlikebear/status/2108813439619715389",
+      "section": "workflow",
+      "title": "One commander, sixteen bots",
+      "summary": "A commander hands out work; bots write, fact-check and style-review a blog post, and one noticed an app needed an update and opened the PR.",
+      "quote": "I just hit approve.",
+      "tags": [
+        "multi-bot",
+        "writing"
+      ],
+      "link": null,
+      "likes": 4,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109129592501928055",
+      "handle": "Dawoodiddris",
+      "url": "https://x.com/Dawoodiddris/status/2109129592501928055",
+      "section": "workflow",
+      "title": "PM for the week",
+      "summary": "Reviews customer complaints, drafts replies from past responses, and drafts a to-do email for the product team for review before sending.",
+      "quote": "for my review before sending",
+      "tags": [
+        "support",
+        "approval gate"
+      ],
+      "link": null,
+      "likes": 2,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109075134443388972",
+      "handle": "LateWatchAnchor",
+      "url": "https://x.com/LateWatchAnchor/status/2109075134443388972",
+      "section": "workflow",
+      "title": "Homework check that only pings on gaps",
+      "summary": "Receipts into a budget sheet and buy list, and a kids' homework check that stays quiet unless something is missing.",
+      "quote": "only pings me when something's actually missing",
+      "tags": [
+        "family",
+        "routine"
+      ],
+      "link": null,
+      "likes": 1,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109284351959613675",
+      "handle": "Jwarchol",
+      "url": "https://x.com/Jwarchol/status/2109284351959613675",
+      "section": "workflow",
+      "title": "Back up your bot to a private repo",
+      "summary": "Has the bot populate a private GitHub repo with everything it can, to see changes over time and revert.",
+      "quote": "Fascinating to look at what it stored.",
+      "tags": [
+        "backup"
+      ],
+      "link": "https://x.ai/bot/UFe4v2bs5h0ezWzLOxxOC",
+      "likes": 0,
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108816467093266474",
+      "handle": "mobilekjk",
+      "url": "https://x.com/mobilekjk/status/2108816467093266474",
+      "section": "workflow",
+      "title": "An old thin client on watch",
+      "summary": "An old thin client running Ubuntu, reachable by the bot over SSH; it checks operations every morning.",
+      "quote": "It checks the operations every morning",
+      "tags": [
+        "hardware",
+        "ops",
+        "routine"
+      ],
+      "link": null,
+      "likes": 1,
+      "added": "2026-10-11"
+    }
+  ],
+  "templates": [
+    {
+      "id": "2109035868925182170",
+      "handle": "deydercintron",
+      "url": "https://x.com/deydercintron/status/2109035868925182170",
+      "title": "Business idea tester",
+      "summary": "Checks if it's already sold cheaper, finds buyer evidence, drafts an offer and a free sample, and hands you one decision.",
+      "link": "https://x.ai/bot/Vo9yBUQdIDrClM9kFhZSc",
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109459003797627363",
+      "handle": "kensicl",
+      "url": "https://x.com/kensicl/status/2109459003797627363",
+      "title": "Big-moment sports pings",
+      "summary": "Pick sports and teams; get pinged on goals, red cards, lead changes and finals.",
+      "link": "https://x.ai/bot/M42O8FnSV2rlvXZXnEC5w",
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109396532797526461",
+      "handle": "jenyadyo",
+      "url": "https://x.com/jenyadyo/status/2109396532797526461",
+      "title": "Heritage-language speaking coach",
+      "summary": "Role-plays, quiet corrections, a debrief and spaced review for heritage Korean speakers.",
+      "link": "https://x.ai/bot/x3G0dAD1zxRXa5pdHw9NQ",
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109393805837214031",
+      "handle": "Daniell0gda",
+      "url": "https://x.com/Daniell0gda/status/2109393805837214031",
+      "title": "Clean diagrams from complex ideas",
+      "summary": "Turns complex ideas into clean diagrams, fast.",
+      "link": "https://x.ai/bot/xJubIu_1ybXeXehoCJiI8",
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109044933097058373",
+      "handle": "Paste_Values",
+      "url": "https://x.com/Paste_Values/status/2109044933097058373",
+      "title": "Money Finder",
+      "summary": "Scans open class-action settlements and files the ones you qualify for.",
+      "link": "https://x.ai/bot/XjfLn_WyeGXzwHjPLL6jW",
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108810909540143156",
+      "handle": "zeuss_000",
+      "url": "https://x.com/zeuss_000/status/2108810909540143156",
+      "title": "Resume Coach",
+      "summary": "A resume coach shared for anyone to install.",
+      "link": "https://x.ai/bot/SdNzCOZk7UW0uzjBFMFc3",
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109154821777584548",
+      "handle": "utahpowscott",
+      "url": "https://x.com/utahpowscott/status/2109154821777584548",
+      "title": "Stock Market Manager",
+      "summary": "Pre-market, mid-day and close briefs, plus research and wheel scans.",
+      "link": "https://x.ai/bot/GeY2fjGe-eWx7UAwp6vr3",
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108831118686310634",
+      "handle": "FishxCD",
+      "url": "https://x.com/FishxCD/status/2108831118686310634",
+      "title": "Order tracker",
+      "summary": "Checks order tracking for a weekly status update. Built with Dr. Eggbot.",
+      "link": "https://x.ai/bot/xy9stZRQESHWGilhQl9Nf",
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2108865320748490878",
+      "handle": "HomesteadHero",
+      "url": "https://x.com/HomesteadHero/status/2108865320748490878",
+      "title": "Contest Winner",
+      "summary": "Enters daily sweepstakes for you.",
+      "link": "https://x.ai/bot/LENrKV-0QXmE_TGv3_hem",
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109340982345114074",
+      "handle": "steinolina",
+      "url": "https://x.com/steinolina/status/2109340982345114074",
+      "title": "Fix-yourself bot",
+      "summary": "A bot shared as a 'fix your self' helper.",
+      "link": "https://x.ai/bot/1eOxvdzAlBogtrGk6bVJu",
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109284351959613675",
+      "handle": "Jwarchol",
+      "url": "https://x.com/Jwarchol/status/2109284351959613675",
+      "title": "Bot memory backup",
+      "summary": "Populates a private GitHub repo with everything the bot stores.",
+      "link": "https://x.ai/bot/UFe4v2bs5h0ezWzLOxxOC",
+      "added": "2026-10-11"
+    },
+    {
+      "id": "2109040489836265731",
+      "handle": "chorch_md",
+      "url": "https://x.com/chorch_md/status/2109040489836265731",
+      "title": "SEO/GEO blog process",
+      "summary": "A template for a quality SEO/GEO blog-writing process.",
+      "link": "https://seodraft.app/agents/grok-bot",
+      "added": "2026-10-11"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+---
+const { item } = Astro.props;
+---
+<article class="card">
+  <h3>{item.title}</h3>
+  <p class="sum">{item.summary}</p>
+  {item.quote && <blockquote>“{item.quote}”</blockquote>}
+  <div class="meta">
+    <a class="who" href={item.url} target="_blank" rel="noopener">@{item.handle} ↗</a>
+    {item.link && <a class="extra" href={item.link} target="_blank" rel="noopener">{item.link.includes('x.ai/bot') ? 'Install template' : 'See it'} →</a>}
+  </div>
+  {item.tags && <ul class="tags">{item.tags.map((t) => <li>{t}</li>)}</ul>}
+</article>
