@@ -2,8 +2,8 @@
   "meta": {
     "thread": "https://x.com/poteto/status/2108808972954423578",
     "request": "https://x.com/onpardev/status/2109460986922959074",
-    "lastScan": "2026-10-11",
-    "repliesScanned": 704,
+    "lastScan": "2026-10-12",
+    "repliesScanned": 786,
     "seeAlso": [
       {
         "handle": "thisiskp_",
@@ -938,6 +938,269 @@
       "link": null,
       "likes": 1,
       "added": "2026-10-11"
+    },
+    {
+      "id": "2109603126051237928",
+      "handle": "jones_attila",
+      "url": "https://x.com/jones_attila/status/2109603126051237928",
+      "section": "value",
+      "title": "School Desk evening digest",
+      "summary": "Rolls school emails and Hungarian WhatsApp groups into one evening digest, turned a journal rejection into a cover letter, drafted job follow-ups, and caught a missed pediatrician insurance request.",
+      "quote": "flagged a pediatrician's insurance request I'd missed.",
+      "tags": [
+        "family",
+        "career",
+        "health"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-12"
+    },
+    {
+      "id": "2109603407430549585",
+      "handle": "eze_is_1",
+      "url": "https://x.com/eze_is_1/status/2109603407430549585",
+      "section": "value",
+      "title": "Creator ops that keep going",
+      "summary": "One bot pulls follower and post data from five platforms into Notion and a dashboard every morning; another tracks subscriptions and renewals. Sessions never stuck; bots own the job.",
+      "quote": "Bots feel more like managing people",
+      "tags": [
+        "creator",
+        "ops",
+        "routine"
+      ],
+      "link": null,
+      "likes": 1,
+      "added": "2026-10-12"
+    },
+    {
+      "id": "2109522613479334328",
+      "handle": "RyanMallin",
+      "url": "https://x.com/RyanMallin/status/2109522613479334328",
+      "section": "value",
+      "title": "Finance, energy, chef, and T1D supplies",
+      "summary": "Contract and deal watch for phone and broadband, home-energy switches and boiler booking, weekly meal shopping for low glycemic load, and a T1D supply manager that drafts prescription emails.",
+      "quote": "helps with my daughter’s T1D.",
+      "tags": [
+        "money",
+        "health",
+        "family",
+        "home"
+      ],
+      "link": null,
+      "likes": 1,
+      "added": "2026-10-12"
+    },
+    {
+      "id": "2109571318136082530",
+      "handle": "jniimi",
+      "url": "https://x.com/jniimi/status/2109571318136082530",
+      "section": "value",
+      "title": "Twelve downloads instead of 72k scrapes",
+      "summary": "A JS-rendered service Claude Code couldn't touch. Twelve browser downloads via Grok Bot beat tens of thousands of scrapes.",
+      "quote": "Absolute game changer.",
+      "tags": [
+        "ops",
+        "data"
+      ],
+      "link": null,
+      "likes": 1,
+      "added": "2026-10-12"
+    },
+    {
+      "id": "2109507664405578056",
+      "handle": "kylecovan",
+      "url": "https://x.com/kylecovan/status/2109507664405578056",
+      "section": "value",
+      "title": "107 sold items matched to cost",
+      "summary": "Handed purchase and sold-inventory spreadsheets; matched 107 sold items to what was paid and flagged the gaps.",
+      "quote": "It matched 107 sold items to what I paid and flagged the gaps.",
+      "tags": [
+        "bookkeeping"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-12"
+    },
+    {
+      "id": "2109474515818275114",
+      "handle": "ryanedick",
+      "url": "https://x.com/ryanedick/status/2109474515818275114",
+      "section": "value",
+      "title": "E-com shop price and SEO pass",
+      "summary": "Full price adjustment to costs, an SEO eval, and a planned social posting schedule for a shop.",
+      "quote": "full price adjustment to bring products in line with costs",
+      "tags": [
+        "small business",
+        "SEO"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-12"
+    },
+    {
+      "id": "2109508193156051161",
+      "handle": "grossera",
+      "url": "https://x.com/grossera/status/2109508193156051161",
+      "section": "value",
+      "title": "Pi Grafana and sun-timed shutters",
+      "summary": "Grafana on a Raspberry Pi plus a Home Assistant automation that moves roller shutters by sun position.",
+      "quote": "sun-position-based control automation for roller shutters",
+      "tags": [
+        "home",
+        "ops"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-12"
+    },
+    {
+      "id": "2109592014136180976",
+      "handle": "RJ8owes",
+      "url": "https://x.com/RJ8owes/status/2109592014136180976",
+      "section": "value",
+      "title": "Journo bot that connects the dots",
+      "summary": "Morning briefing across news subs that links cause and effect across sources, especially in energy.",
+      "quote": "connect the dots between stories for me",
+      "tags": [
+        "news",
+        "routine"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-12"
+    },
+    {
+      "id": "2109527282255806552",
+      "handle": "w4RodUKfDV7znMN",
+      "url": "https://x.com/w4RodUKfDV7znMN/status/2109527282255806552",
+      "section": "value",
+      "title": "Newsletter pile into today's coaching",
+      "summary": "Music and medical newsletters land in one Google Drive view labeled as today's work; a Block bot previews what to do and reports progress. (Post is in Japanese; summarized.)",
+      "quote": null,
+      "tags": [
+        "learning",
+        "routine"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-12"
+    },
+    {
+      "id": "2109499329681776938",
+      "handle": "ahalvor",
+      "url": "https://x.com/ahalvor/status/2109499329681776938",
+      "section": "joy",
+      "title": "Novel launch and a memorial photo inbox",
+      "summary": "Scheduled the first novel across channels, set a photo inbox so relatives could email pictures for an uncle's memorial slideshow, got sites into Search Console, and cut Sunday groceries to texting back seven numbers.",
+      "quote": "Sunday groceries are now me texting back 7 numbers.",
+      "tags": [
+        "family",
+        "creator",
+        "errands"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-12"
+    },
+    {
+      "id": "2109599757383717331",
+      "handle": "CryingInWtf",
+      "url": "https://x.com/CryingInWtf/status/2109599757383717331",
+      "section": "joy",
+      "title": "Kitchen-table newspaper for the week",
+      "summary": "A Tradbot-style kitchen newspaper with kids' activities, weather, school forms to sign, and local news.",
+      "quote": "Kitchen Tables Newspaper with all my kids activities for the week",
+      "tags": [
+        "family",
+        "printing"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-12"
+    },
+    {
+      "id": "2109486654922658033",
+      "handle": "ALL_Jonah",
+      "url": "https://x.com/ALL_Jonah/status/2109486654922658033",
+      "section": "joy",
+      "title": "A household desk named for Deb",
+      "summary": "A roster of Austen-styled helpers for schedule, meals, grocery carts (approve before buy), clothes, health, piano, homeschool, garden, gifts, voice, and tech.",
+      "quote": "Deb approves before anything is bought.",
+      "tags": [
+        "family",
+        "multi-bot"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-12"
+    },
+    {
+      "id": "2109511498925998246",
+      "handle": "ALL_Jonah",
+      "url": "https://x.com/ALL_Jonah/status/2109511498925998246",
+      "section": "joy",
+      "title": "Grade homework by photo, print by voice",
+      "summary": "Wife photographed a son's English paper; Grok Bot graded it and printed the notes after a voice ask from her phone.",
+      "quote": "she told grok to print it all via voice from her phone.",
+      "tags": [
+        "family",
+        "kids",
+        "printing"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-12"
+    },
+    {
+      "id": "2109473918130241937",
+      "handle": "jenkins_bevan",
+      "url": "https://x.com/jenkins_bevan/status/2109473918130241937",
+      "section": "workflow",
+      "title": "Homeschool-app support loop",
+      "summary": "Parent reports a bug in-app → helpdesk files a GitHub issue → Codex opens a fix PR → merge → parent gets an in-app reply. Solo dev with a full-time job.",
+      "quote": "Support team in my pocket",
+      "tags": [
+        "support",
+        "code",
+        "family"
+      ],
+      "link": null,
+      "likes": 1,
+      "added": "2026-10-12"
+    },
+    {
+      "id": "2109566652866035911",
+      "handle": "JHCapital",
+      "url": "https://x.com/JHCapital/status/2109566652866035911",
+      "section": "quirky",
+      "title": "Chess tutor on Stockfish",
+      "summary": "Pulls Chess.com games nightly via n8n, runs Stockfish, writes where you're losing, and emails a weekly lesson with calendar study slots.",
+      "quote": "writes up where I'm losing.",
+      "tags": [
+        "games",
+        "learning",
+        "routine"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-12"
+    },
+    {
+      "id": "2109656072210243990",
+      "handle": "omarchyftrou",
+      "url": "https://x.com/omarchyftrou/status/2109656072210243990",
+      "section": "quirky",
+      "title": "The bot that installs its own update",
+      "summary": "On Omarchy/Arch the download was an .rpm; Grok Bot translated the package and handed back an install prompt.",
+      "quote": "GrokBot translated it and gave me a prompt to install",
+      "tags": [
+        "meta",
+        "ops"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-12"
     }
   ],
   "templates": [

@@ -60,6 +60,22 @@ E_=[
 ("2109075134443388972",W,"Homework check that only pings on gaps","Receipts into a budget sheet and buy list, and a kids' homework check that stays quiet unless something is missing.","only pings me when something's actually missing",["family","routine"],None),
 ("2109284351959613675",W,"Back up your bot to a private repo","Has the bot populate a private GitHub repo with everything it can, to see changes over time and revert.","Fascinating to look at what it stored.",["backup"],"https://x.ai/bot/UFe4v2bs5h0ezWzLOxxOC"),
 ("2108816467093266474",W,"An old thin client on watch","An old thin client running Ubuntu, reachable by the bot over SSH; it checks operations every morning.","It checks the operations every morning",["hardware","ops","routine"],None),
+("2109603126051237928",V,"School Desk evening digest","Rolls school emails and Hungarian WhatsApp groups into one evening digest, turned a journal rejection into a cover letter, drafted job follow-ups, and caught a missed pediatrician insurance request.","flagged a pediatrician's insurance request I'd missed.",["family","career","health"],None),
+("2109603407430549585",V,"Creator ops that keep going","One bot pulls follower and post data from five platforms into Notion and a dashboard every morning; another tracks subscriptions and renewals. Sessions never stuck; bots own the job.","Bots feel more like managing people",["creator","ops","routine"],None),
+("2109522613479334328",V,"Finance, energy, chef, and T1D supplies","Contract and deal watch for phone and broadband, home-energy switches and boiler booking, weekly meal shopping for low glycemic load, and a T1D supply manager that drafts prescription emails.","helps with my daughter’s T1D.",["money","health","family","home"],None),
+("2109571318136082530",V,"Twelve downloads instead of 72k scrapes","A JS-rendered service Claude Code couldn't touch. Twelve browser downloads via Grok Bot beat tens of thousands of scrapes.","Absolute game changer.",["ops","data"],None),
+("2109507664405578056",V,"107 sold items matched to cost","Handed purchase and sold-inventory spreadsheets; matched 107 sold items to what was paid and flagged the gaps.","It matched 107 sold items to what I paid and flagged the gaps.",["bookkeeping"],None),
+("2109474515818275114",V,"E-com shop price and SEO pass","Full price adjustment to costs, an SEO eval, and a planned social posting schedule for a shop.","full price adjustment to bring products in line with costs",["small business","SEO"],None),
+("2109508193156051161",V,"Pi Grafana and sun-timed shutters","Grafana on a Raspberry Pi plus a Home Assistant automation that moves roller shutters by sun position.","sun-position-based control automation for roller shutters",["home","ops"],None),
+("2109592014136180976",V,"Journo bot that connects the dots","Morning briefing across news subs that links cause and effect across sources, especially in energy.","connect the dots between stories for me",["news","routine"],None),
+("2109527282255806552",V,"Newsletter pile into today's coaching","Music and medical newsletters land in one Google Drive view labeled as today's work; a Block bot previews what to do and reports progress. (Post is in Japanese; summarized.)",None,["learning","routine"],None),
+("2109499329681776938",J,"Novel launch and a memorial photo inbox","Scheduled the first novel across channels, set a photo inbox so relatives could email pictures for an uncle's memorial slideshow, got sites into Search Console, and cut Sunday groceries to texting back seven numbers.","Sunday groceries are now me texting back 7 numbers.",["family","creator","errands"],None),
+("2109599757383717331",J,"Kitchen-table newspaper for the week","A Tradbot-style kitchen newspaper with kids' activities, weather, school forms to sign, and local news.","Kitchen Tables Newspaper with all my kids activities for the week",["family","printing"],None),
+("2109486654922658033",J,"A household desk named for Deb","A roster of Austen-styled helpers for schedule, meals, grocery carts (approve before buy), clothes, health, piano, homeschool, garden, gifts, voice, and tech.","Deb approves before anything is bought.",["family","multi-bot"],None),
+("2109511498925998246",J,"Grade homework by photo, print by voice","Wife photographed a son's English paper; Grok Bot graded it and printed the notes after a voice ask from her phone.","she told grok to print it all via voice from her phone.",["family","kids","printing"],None),
+("2109473918130241937",W,"Homeschool-app support loop","Parent reports a bug in-app → helpdesk files a GitHub issue → Codex opens a fix PR → merge → parent gets an in-app reply. Solo dev with a full-time job.","Support team in my pocket",["support","code","family"],None),
+("2109566652866035911",Q,"Chess tutor on Stockfish","Pulls Chess.com games nightly via n8n, runs Stockfish, writes where you're losing, and emails a weekly lesson with calendar study slots.","writes up where I'm losing.",["games","learning","routine"],None),
+("2109656072210243990",Q,"The bot that installs its own update","On Omarchy/Arch the download was an .rpm; Grok Bot translated the package and handed back an install prompt.","GrokBot translated it and gave me a prompt to install",["meta","ops"],None),
 ]
 T=[
 ("2109035868925182170","Business idea tester","Checks if it's already sold cheaper, finds buyer evidence, drafts an offer and a free sample, and hands you one decision.","https://x.ai/bot/Vo9yBUQdIDrClM9kFhZSc"),
@@ -76,17 +92,18 @@ T=[
 ("2109040489836265731","SEO/GEO blog process","A template for a quality SEO/GEO blog-writing process.","https://seodraft.app/agents/grok-bot"),
 ]
 full=json.load(open('raw/full.json'))
+NEW={"2109603126051237928","2109603407430549585","2109522613479334328","2109571318136082530","2109507664405578056","2109474515818275114","2109508193156051161","2109592014136180976","2109527282255806552","2109499329681776938","2109599757383717331","2109486654922658033","2109511498925998246","2109473918130241937","2109566652866035911","2109656072210243990"}
 uc=[]
 for i,s,t,su,q,tags,link in E_:
     p=full[i]; 
     if q: assert q in p['text'].replace('&amp;','&'), (i,q)
-    uc.append(dict(id=i,handle=p['handle'],url=f"https://x.com/{p['handle']}/status/{i}",section=s,title=t,summary=su,quote=q,tags=tags,link=link,likes=p['likes'],added="2026-10-11"))
+    uc.append(dict(id=i,handle=p['handle'],url=f"https://x.com/{p['handle']}/status/{i}",section=s,title=t,summary=su,quote=q,tags=tags,link=link,likes=p['likes'],added="2026-10-12" if i in NEW else "2026-10-11"))
 tp=[]
 for i,t,su,link in T:
     p=full[i]
     tp.append(dict(id=i,handle=p['handle'],url=f"https://x.com/{p['handle']}/status/{i}",title=t,summary=su,link=link,added="2026-10-11"))
     assert link in p['text'] or link.split('?')[0] in p['text'], (i,link)
-meta=dict(thread="https://x.com/poteto/status/2108808972954423578",request="https://x.com/onpardev/status/2109460986922959074",lastScan="2026-10-11",repliesScanned=len(open('raw/replies.jsonl').readlines()),
+meta=dict(thread="https://x.com/poteto/status/2108808972954423578",request="https://x.com/onpardev/status/2109460986922959074",lastScan="2026-10-12",repliesScanned=len(open('raw/replies.jsonl').readlines()),
   seeAlso=[dict(handle="thisiskp_",url="https://x.com/thisiskp_/status/2109351108963656001",title="263 use cases from this thread, collected",link="https://botusecases.netlify.app")])
 json.dump(dict(meta=meta,usecases=uc,templates=tp),open('src/data/usecases.json','w'),ensure_ascii=False,indent=2)
 from collections import Counter; print(Counter(u['section'] for u in uc), len(tp))
