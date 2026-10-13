@@ -2,8 +2,8 @@
   "meta": {
     "thread": "https://x.com/poteto/status/2108808972954423578",
     "request": "https://x.com/onpardev/status/2109460986922959074",
-    "lastScan": "2026-10-12",
-    "repliesScanned": 786,
+    "lastScan": "2026-10-13",
+    "repliesScanned": 838,
     "seeAlso": [
       {
         "handle": "thisiskp_",
@@ -1201,6 +1201,88 @@
       "link": null,
       "likes": 0,
       "added": "2026-10-12"
+    },
+    {
+      "id": "2109997275254522148",
+      "handle": "loicboutter",
+      "url": "https://x.com/loicboutter/status/2109997275254522148",
+      "section": "quirky",
+      "title": "Chief watches the house alarm",
+      "summary": "Day-two: Chief pinged that the intrusion alarm went off and calls went unanswered. Nobody asked it to; the cat set it off.",
+      "quote": "I never set Grok Bot to do that, it did it on its own and I'm glad!",
+      "tags": [
+        "home",
+        "security"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-13"
+    },
+    {
+      "id": "2109970016691183777",
+      "handle": "EdgeRunner_117",
+      "url": "https://x.com/EdgeRunner_117/status/2109970016691183777",
+      "section": "joy",
+      "title": "Goggins on Garmin for a first triathlon",
+      "summary": "Connected a “Goggins” bot to Garmin so it knows fitness level, suggests workouts, and owns the 2027 triathlon training plan.",
+      "quote": "I connected my “Goggins” bot to the Garmin app",
+      "tags": [
+        "fitness",
+        "routine"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-13"
+    },
+    {
+      "id": "2109888495455965388",
+      "handle": "DreadedT",
+      "url": "https://x.com/DreadedT/status/2109888495455965388",
+      "section": "quirky",
+      "title": "Ultima Online QA on the bot's PC",
+      "summary": "Headless UO terminal client on the bot PC: code, deploy, build the world, QA it, then handle player tickets and GM pages.",
+      "quote": "then QA's it and then handles player tickets.",
+      "tags": [
+        "games",
+        "QA",
+        "ops"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-13"
+    },
+    {
+      "id": "2109684177511796986",
+      "handle": "beecher92099",
+      "url": "https://x.com/beecher92099/status/2109684177511796986",
+      "section": "joy",
+      "title": "Listen history to concert tickets",
+      "summary": "Reviewed YouTube Music history for liked artists, then scanned nearby upcoming concerts worth tickets.",
+      "quote": "scan for any upcoming concerts in my area",
+      "tags": [
+        "music",
+        "errands"
+      ],
+      "link": null,
+      "likes": 0,
+      "added": "2026-10-13"
+    },
+    {
+      "id": "2109678445181419995",
+      "handle": "goodkarmatony",
+      "url": "https://x.com/goodkarmatony/status/2109678445181419995",
+      "section": "value",
+      "title": "Etsy shop run by a bot fleet",
+      "summary": "One bot makes digital crafts; others research sales, tags, email, and Pinterest ads. Decisions go through the chief of staff.",
+      "quote": "Started an Etsy shop with all digital crafts created by one of my bots.",
+      "tags": [
+        "small business",
+        "multi-bot",
+        "creator"
+      ],
+      "link": "https://www.etsy.com/shop/GoodKarmaByAnthony",
+      "likes": 0,
+      "added": "2026-10-13"
     }
   ],
   "templates": [

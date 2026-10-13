@@ -76,6 +76,11 @@ E_=[
 ("2109473918130241937",W,"Homeschool-app support loop","Parent reports a bug in-app → helpdesk files a GitHub issue → Codex opens a fix PR → merge → parent gets an in-app reply. Solo dev with a full-time job.","Support team in my pocket",["support","code","family"],None),
 ("2109566652866035911",Q,"Chess tutor on Stockfish","Pulls Chess.com games nightly via n8n, runs Stockfish, writes where you're losing, and emails a weekly lesson with calendar study slots.","writes up where I'm losing.",["games","learning","routine"],None),
 ("2109656072210243990",Q,"The bot that installs its own update","On Omarchy/Arch the download was an .rpm; Grok Bot translated the package and handed back an install prompt.","GrokBot translated it and gave me a prompt to install",["meta","ops"],None),
+("2109997275254522148",Q,"Chief watches the house alarm","Day-two: Chief pinged that the intrusion alarm went off and calls went unanswered. Nobody asked it to; the cat set it off.","I never set Grok Bot to do that, it did it on its own and I'm glad!",["home","security"],None),
+("2109970016691183777",J,"Goggins on Garmin for a first triathlon","Connected a “Goggins” bot to Garmin so it knows fitness level, suggests workouts, and owns the 2027 triathlon training plan.","I connected my “Goggins” bot to the Garmin app",["fitness","routine"],None),
+("2109888495455965388",Q,"Ultima Online QA on the bot's PC","Headless UO terminal client on the bot PC: code, deploy, build the world, QA it, then handle player tickets and GM pages.","then QA's it and then handles player tickets.",["games","QA","ops"],None),
+("2109684177511796986",J,"Listen history to concert tickets","Reviewed YouTube Music history for liked artists, then scanned nearby upcoming concerts worth tickets.","scan for any upcoming concerts in my area",["music","errands"],None),
+("2109678445181419995",V,"Etsy shop run by a bot fleet","One bot makes digital crafts; others research sales, tags, email, and Pinterest ads. Decisions go through the chief of staff.","Started an Etsy shop with all digital crafts created by one of my bots.",["small business","multi-bot","creator"],"https://www.etsy.com/shop/GoodKarmaByAnthony"),
 ]
 T=[
 ("2109035868925182170","Business idea tester","Checks if it's already sold cheaper, finds buyer evidence, drafts an offer and a free sample, and hands you one decision.","https://x.ai/bot/Vo9yBUQdIDrClM9kFhZSc"),
@@ -92,18 +97,20 @@ T=[
 ("2109040489836265731","SEO/GEO blog process","A template for a quality SEO/GEO blog-writing process.","https://seodraft.app/agents/grok-bot"),
 ]
 full=json.load(open('raw/full.json'))
-NEW={"2109603126051237928","2109603407430549585","2109522613479334328","2109571318136082530","2109507664405578056","2109474515818275114","2109508193156051161","2109592014136180976","2109527282255806552","2109499329681776938","2109599757383717331","2109486654922658033","2109511498925998246","2109473918130241937","2109566652866035911","2109656072210243990"}
+NEW={"2109997275254522148","2109970016691183777","2109888495455965388","2109684177511796986","2109678445181419995"}
 uc=[]
 for i,s,t,su,q,tags,link in E_:
     p=full[i]; 
     if q: assert q in p['text'].replace('&amp;','&'), (i,q)
-    uc.append(dict(id=i,handle=p['handle'],url=f"https://x.com/{p['handle']}/status/{i}",section=s,title=t,summary=su,quote=q,tags=tags,link=link,likes=p['likes'],added="2026-10-12" if i in NEW else "2026-10-11"))
+    OCT12={"2109603126051237928","2109603407430549585","2109522613479334328","2109571318136082530","2109507664405578056","2109474515818275114","2109508193156051161","2109592014136180976","2109527282255806552","2109499329681776938","2109599757383717331","2109486654922658033","2109511498925998246","2109473918130241937","2109566652866035911","2109656072210243990"}
+    added="2026-10-13" if i in NEW else ("2026-10-12" if i in OCT12 else "2026-10-11")
+    uc.append(dict(id=i,handle=p['handle'],url=f"https://x.com/{p['handle']}/status/{i}",section=s,title=t,summary=su,quote=q,tags=tags,link=link,likes=p['likes'],added=added))
 tp=[]
 for i,t,su,link in T:
     p=full[i]
     tp.append(dict(id=i,handle=p['handle'],url=f"https://x.com/{p['handle']}/status/{i}",title=t,summary=su,link=link,added="2026-10-11"))
     assert link in p['text'] or link.split('?')[0] in p['text'], (i,link)
-meta=dict(thread="https://x.com/poteto/status/2108808972954423578",request="https://x.com/onpardev/status/2109460986922959074",lastScan="2026-10-12",repliesScanned=len(open('raw/replies.jsonl').readlines()),
+meta=dict(thread="https://x.com/poteto/status/2108808972954423578",request="https://x.com/onpardev/status/2109460986922959074",lastScan="2026-10-13",repliesScanned=len(open('raw/replies.jsonl').readlines()),
   seeAlso=[dict(handle="thisiskp_",url="https://x.com/thisiskp_/status/2109351108963656001",title="263 use cases from this thread, collected",link="https://botusecases.netlify.app")])
 json.dump(dict(meta=meta,usecases=uc,templates=tp),open('src/data/usecases.json','w'),ensure_ascii=False,indent=2)
 from collections import Counter; print(Counter(u['section'] for u in uc), len(tp))

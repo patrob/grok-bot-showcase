@@ -877,5 +877,37 @@
     "likes": 0,
     "text": "@poteto @bot DMV Forms without opening their website. Just a click to a captcha at some point.",
     "urls": []
+  },
+  "2109888495455965388": {
+    "handle": "DreadedT",
+    "likes": 0,
+    "text": "Built a headless UO term based client to handle player QA testing and GM pages/interactions with players for an Ultima Online server.  Runs on the bot's PC.  Connects to the ServUO server.\n\nSo it works on the code, then deploys the code, builds the world, and then QA's it and then handles player tickets.",
+    "urls": []
+  },
+  "2109678445181419995": {
+    "handle": "goodkarmatony",
+    "likes": 0,
+    "text": "@poteto @bot Started an Etsy shop with all digital crafts created by one of my bots.  Other bots do research on sales and post and create all the tags. Other bots handle email and monitor Pinterest ads. I discuss what we should do with my COS and we go from there. https://www.etsy.com/shop/GoodKarmaByAnthony",
+    "urls": [
+      "https://www.etsy.com/shop/GoodKarmaByAnthony"
+    ]
+  },
+  "2109997275254522148": {
+    "handle": "loicboutter",
+    "likes": 0,
+    "text": "@poteto @bot I set it up yesterday, today I got a notification from \"Chief\" telling me the intrusion alarm in my house had been set off and I didn't respond to phone calls. I never set Grok Bot to do that, it did it on its own and I'm glad! It was a false alarm triggered by my cat btw.",
+    "urls": []
+  },
+  "2109970016691183777": {
+    "handle": "EdgeRunner_117",
+    "likes": 0,
+    "text": "@poteto @bot I connected my “Goggins” bot to the Garmin app. It knows everything about my fitness level and suggests workouts to help me reach my goals. In 2027 I’m doing my first triathlon (a small one), and of course I’m counting on “Goggins” for my training plan.",
+    "urls": []
+  },
+  "2109684177511796986": {
+    "handle": "beecher92099",
+    "likes": 0,
+    "text": "@poteto @bot I had @bot review my Youtube Music listen history to learn what artists I like and then scan for any upcoming concerts in my area I might like to get tickets for.",
+    "urls": []
   }
 }
